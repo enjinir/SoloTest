@@ -1,0 +1,15 @@
+F:\visualstudio\SoloTest\SoloTest\bin\Debug\SoloTest.exe.config
+F:\visualstudio\SoloTest\SoloTest\bin\Debug\SoloTest.exe
+F:\visualstudio\SoloTest\SoloTest\bin\Debug\SoloTest.pdb
+F:\visualstudio\SoloTest\SoloTest\obj\Debug\SoloTest.Main.resources
+F:\visualstudio\SoloTest\SoloTest\obj\Debug\SoloTest.Properties.Resources.resources
+F:\visualstudio\SoloTest\SoloTest\obj\Debug\SoloTest.csproj.GenerateResource.Cache
+F:\visualstudio\SoloTest\SoloTest\obj\Debug\SoloTest.exe
+F:\visualstudio\SoloTest\SoloTest\obj\Debug\SoloTest.pdb
+F:\visualstudio\SoloTest\SoloTest\obj\Debug\SoloTest.csprojResolveAssemblyReference.cache
+F:\visualstudio\SoloTest\SoloTest\bin\Debug\Images\Available.png
+F:\visualstudio\SoloTest\SoloTest\bin\Debug\Images\Empty.png
+F:\visualstudio\SoloTest\SoloTest\bin\Debug\Images\Occupied.png
+F:\visualstudio\SoloTest\SoloTest\bin\Debug\Images\Ticked.png
+F:\visualstudio\SoloTest\SoloTest\bin\Debug\NotAvailable.png
+F:\visualstudio\SoloTest\SoloTest\bin\Debug\Images\NotAvailable.png
